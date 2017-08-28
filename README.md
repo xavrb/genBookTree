@@ -79,3 +79,8 @@ Will create:
 
 ```
 
+# How?
+Just run the script as follows:
+```bash
+sh create.sh
+```
